@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../packages/shared"
+    },
+    {
       "path": "../../packages/nested-pkg1-2-2-2-2-2"
     },
     {

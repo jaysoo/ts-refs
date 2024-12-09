@@ -2,6 +2,7 @@ import { largePkg1, largePkg110, largePkg11, largePkg111, largePkg112, largePkg1
 import { mediumPkg1 } from '@acme/medium-pkg1';
 import { smallPkg1 } from '@acme/small-pkg1';
 import { nestedPkg1, nestedPkg12, nestedPkg11, nestedPkg121221 } from '@acme/nested-pkg1';
+import { shared } from '@acme/shared';
 
 // Build works but typecheck fails.
 // const x: number = '1';
@@ -28,6 +29,7 @@ export function App() {
       <p>{nestedPkg11()}</p>
       <p>{nestedPkg12()}</p>
       <p>{nestedPkg121221()}</p>
+      <p>{shared()}</p>
     </>
   );
 }

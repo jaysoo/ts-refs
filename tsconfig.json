@@ -1136,6 +1136,9 @@
     },
     {
       "path": "./apps/demo2"
+    },
+    {
+      "path": "./packages/shared"
     }
   ]
 }

@@ -28,6 +28,9 @@
   "include": ["src/**/*.js", "src/**/*.jsx", "src/**/*.ts", "src/**/*.tsx"],
   "references": [
     {
+      "path": "../../packages/shared/tsconfig.lib.json"
+    },
+    {
       "path": "../../packages/nested-pkg1-2-2-2-2-2/tsconfig.lib.json"
     },
     {
