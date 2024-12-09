@@ -1,0 +1,17 @@
+{
+  "name": "@acme/nested-pkg1-2-2-2-2",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "nx": {
+    "targets": {
+      "build-old": {},
+      "build-new": {}
+    }
+  },
+  "dependencies": {
+    "nested-pkg1-2-2-2-2-1": "*",
+    "nested-pkg1-2-2-2-2-2": "*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@acme/medium-pkg1-1",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "nx": {
+    "targets": {
+      "build-old": {},
+      "build-new": {}
+    }
+  },
+  "dependencies": {
+    "medium-pkg1-1-1": "*",
+    "medium-pkg1-1-2": "*",
+    "medium-pkg1-1-3": "*",
+    "medium-pkg1-1-4": "*",
+    "medium-pkg1-1-5": "*",
+    "medium-pkg1-1-6": "*"
+  }
+}

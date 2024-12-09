@@ -1,0 +1,70 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "../large-pkg1-12-20"
+    },
+    {
+      "path": "../large-pkg1-12-19"
+    },
+    {
+      "path": "../large-pkg1-12-18"
+    },
+    {
+      "path": "../large-pkg1-12-17"
+    },
+    {
+      "path": "../large-pkg1-12-16"
+    },
+    {
+      "path": "../large-pkg1-12-15"
+    },
+    {
+      "path": "../large-pkg1-12-14"
+    },
+    {
+      "path": "../large-pkg1-12-13"
+    },
+    {
+      "path": "../large-pkg1-12-12"
+    },
+    {
+      "path": "../large-pkg1-12-11"
+    },
+    {
+      "path": "../large-pkg1-12-10"
+    },
+    {
+      "path": "../large-pkg1-12-9"
+    },
+    {
+      "path": "../large-pkg1-12-8"
+    },
+    {
+      "path": "../large-pkg1-12-7"
+    },
+    {
+      "path": "../large-pkg1-12-6"
+    },
+    {
+      "path": "../large-pkg1-12-5"
+    },
+    {
+      "path": "../large-pkg1-12-4"
+    },
+    {
+      "path": "../large-pkg1-12-3"
+    },
+    {
+      "path": "../large-pkg1-12-2"
+    },
+    {
+      "path": "../large-pkg1-12-1"
+    },
+    {
+      "path": "./tsconfig.lib.json"
+    }
+  ]
+}
